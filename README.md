@@ -160,14 +160,14 @@ Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be
 **Mitigation**  
 **Auto Feign Death Interrupt:** - If you're not moving it will cast Feign Death to interrupt the cast of important spells such as CC or big damage like Chaos Bolt.  
 **Auto Feign Death Dispel:** - If you've got the Survival Tactics talent it will try to remove important debuffs such as Mindgames. If you've got the Craven Strategem Legendary it will also try to remove debuffs such as Spear of Bastion.  
-**Auto Cancel Feign Death:** - It will automatically cancel your Feign Death after it's been cast so you don't lose momentum.  
-**Auto Exhilaration @ HP%** - Uses Exhilaration automatically at the set and below Health percentage. 
-**Auto Turtle @ HP%** - Uses Aspect of the Turtle automatically at the set and below Health percentage. 
-**Auto Turtle DH The Hunt:** - Uses Aspect of the Turtle automatically when a DH has almost finished casting The Hunt on you.  
-**Auto Roar @ HP%** - Uses Roar of Sacrifice automatically at the set and below Health percentage. 
-**Auto Roar for Party Members:** - Enables the Auto Roar @ HP% to also check party members and Roar on them.  
-**Auto Dispel Mindgames (Racial):** - Uses your Racial (Fireblood/Stoneform) automatically when you're under the effect of Mindgames.  
-**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  
+**Auto Cancel Feign Death:** - It will automatically cancel your Feign Death after it's been cast so you don't lose momentum.   
+**Auto Exhilaration @ HP%** - Uses Exhilaration automatically at the set and below Health percentage.  
+**Auto Turtle @ HP%** - Uses Aspect of the Turtle automatically at the set and below Health percentage.   
+**Auto Turtle DH The Hunt:** - Uses Aspect of the Turtle automatically when a DH has almost finished casting The Hunt on you.   
+**Auto Roar @ HP%** - Uses Roar of Sacrifice automatically at the set and below Health percentage.  
+**Auto Roar for Party Members:** - Enables the Auto Roar @ HP% to also check party members and Roar on them.   
+**Auto Dispel Mindgames (Racial):** - Uses your Racial (Fireblood/Stoneform) automatically when you're under the effect of Mindgames.   
+**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.   
 
 **Casting**  
 **Cast Traps @ Cursor:** - Changes your Traps to use @cursor instead of being manually placeable.  
