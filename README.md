@@ -54,7 +54,6 @@ If you don't you will reach the macro limit
 •	Auto Roar of Sacrifice @ HP% (Player / Party)  
 •	Auto Dispel Mindgames using Fireblood/Stoneform    
 
-
 **Placeable or @Cursor Casts!**  
 • Choose if you want to Cast Traps @ Cursor or not  
 • Choose if you want to Cast Covenant ability @ Cursor or not  
