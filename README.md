@@ -89,7 +89,7 @@ Password: `aimsharp`
 **Intimidation Big Damage such as Convoke!**  
 • Casts Intimidation on your target or focus when they're about to cast a big damaging spell and your Countershot is on Cooldown    
 
-**Feign Death when Low!**
+**Feign Death when Low!**  
 • Last ditch effort to survive, Feign Death when you're low automatically! Works great when using Survival Tactics.  
 
 **Auto Focus!**  
