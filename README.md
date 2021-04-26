@@ -1,5 +1,5 @@
 # Snoogens Arena Beast Mastery Hunter  
-![alt text](https://i.imgur.com/hkIYw42.png)  
+![alt text](https://i.imgur.com/0jBmW4H.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
 Supports any level.  
