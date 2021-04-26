@@ -10,7 +10,7 @@ Unzip and place the `Snoogens-Arena-BeastMastery-Hunter` folder under your Aimsh
 Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-BeastMastery-Hunter` folder.  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
-If you use Aimsharp's ArenaPVP Kicks plugin, please download the modified version from my Discord in channel #changelog-aimsharp-arenakicks  
+If you use Aimsharp's ArenaPVP Kicks plugin, please download the modified version from my Discord in channel `#changelog-aimsharp-arenakicks`  
 If you don't you will reach the macro limit  
 
 ***
@@ -194,7 +194,7 @@ Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be
 
 ## More to come, based on your feedback!  
 Please provide me with your direct feedback on my Discord - https://discord.gg/VksJWWk9PS.  
-A feature not working as expected? Rotation not performing what you believe is optimal? Anything! Please leave a note in #feedback-and-suggestions or #troubleshooting  
+A feature not working as expected? Rotation not performing what you believe is optimal? Anything! Please leave a note in `#feedback-and-suggestions` or `#troubleshooting`  
 
 ***
 
