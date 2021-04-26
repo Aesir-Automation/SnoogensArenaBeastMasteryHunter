@@ -10,7 +10,8 @@ Unzip and place the `Snoogens-Arena-BeastMastery-Hunter` folder under your Aimsh
 Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-BeastMastery-Hunter` folder.  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
-If you use Aimsharp's ArenaPVP Kicks plugin, please download the modified version from my Discord in channel `#changelog-aimsharp-arenakicks`  
+If you use Aimsharp's ArenaPVP Kicks plugin, please download the modified version from my Discord.  
+Channel `#changelog-aimsharp-arenakicks`  
 If you don't you will reach the macro limit  
 
 ***
