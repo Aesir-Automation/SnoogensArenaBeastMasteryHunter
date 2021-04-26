@@ -1,4 +1,4 @@
-# Snoogens Arena Marksman Hunter v1.3  
+# Snoogens Arena Beast Mastery Hunter  
 ![alt text](https://i.imgur.com/hkIYw42.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -6,8 +6,8 @@ Supports any level.
 Only compatible with English Language World of Warcraft Client. This means that this rotation won't work for WoW clients with German, Russian etc languages.  
 Purchase a license through https://shoppy.gg/@snoogens  
 Discord: https://discord.gg/VksJWWk9PS  
-Unzip and place the `Snoogens-Arena-Marksman-Hunter` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
-Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-Marksman-Hunter` folder.  
+Unzip and place the `Snoogens-Arena-BeastMastery-Hunter` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
+Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-BeastMastery-Hunter` folder.  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
 
@@ -28,7 +28,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Pet Support!**  
 •	Auto Call Pet 1-3, including auto res if out of combat  
-•	Auto Mend Pet if not Bursting  
+•	Auto Mend Pet  
 
 **Automatic Defensives/Mitigations!**  
 •	Auto Phial of Serenity @ HP%  
@@ -80,17 +80,15 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **AOE Toggle!**  
 • Enables automatic AOE based on the amount of enemies, amazing for BGs if you want to 'win' the damage!  
 
-**Scatter Shot Convoke!**  
-• Druid about to slam you and your team to the ground with a Convoke? Countershot isnt ready, or maybe they are immune to interrupts? BAM - Scatter Shot!  
+**Intimidation Convoke!**  
+• Druid about to slam you and your team to the ground with a Convoke? Countershot isnt ready, or maybe they are immune to interrupts? BAM - Intimidation!  
 
-**Scatter Shot Focus while Bursting!**  
+**Intimidation Focus while Bursting!**  
 • Don't want to think about CCing with Scatter while Bursting? No worries, I got it under control - I'll even make sure to not overlap with any other CC.  
 
 **Feign Death when Low!**
 • Last ditch effort to survive, Feign Death when you're low automatically! Works great when using Survival Tactics.  
 
-**Auto Bursting Shot!**  
-• Automatically casts Bursting Shot when a Melee is in Range.  
 
 ***
 
