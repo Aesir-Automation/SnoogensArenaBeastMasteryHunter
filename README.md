@@ -1,4 +1,4 @@
-# Snoogens Arena Beast Mastery Hunter  
+# Snoogens Arena Beast Mastery Hunter OUTDATED  
 ![alt text](https://i.imgur.com/0jBmW4H.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
